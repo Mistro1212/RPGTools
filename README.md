@@ -1,4 +1,7 @@
 # RPGTools
+Created: 12-18-2020
+Author: Jace Nelson
+
 Tools for Pathfinder
 
 This is a repository for files to aid with Pathfinder 2e (and maybe 1e).
